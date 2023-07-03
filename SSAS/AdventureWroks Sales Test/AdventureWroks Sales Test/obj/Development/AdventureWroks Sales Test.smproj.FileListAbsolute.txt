@@ -1,0 +1,9 @@
+C:\Users\z2020\source\repos\AdventureWroks Sales Test\AdventureWroks Sales Test\bin\Model.asdatabase
+C:\Users\z2020\source\repos\AdventureWroks Sales Test\AdventureWroks Sales Test\bin\Model.deploymenttargets
+C:\Users\z2020\source\repos\AdventureWroks Sales Test\AdventureWroks Sales Test\bin\Model.deploymentoptions
+C:\Users\z2020\source\repos\AdventureWroks Sales Test\AdventureWroks Sales Test\obj\Development\AdventureWroks Sales Test.smproj.AssemblyReference.cache
+C:\Users\z2020\source\repos\AdventureWroks Sales Test\AdventureWroks Sales Test\obj\Development\AdventureWroks Sales Test.smproj.SuggestedBindingRedirects.cache
+C:\Users\z2020\source\repos\AdventureWroks Sales Test\AdventureWroks Sales Test\obj\Development\AdventureWroks Sales Test.smproj.CoreCompileInputs.cache
+C:\Users\z2020\source\repos\AdventureWroks Sales Test\AdventureWroks Sales Test\obj\Development\Model.asdatabase
+C:\Users\z2020\source\repos\AdventureWroks Sales Test\AdventureWroks Sales Test\obj\Development\Model.deploymentoptions
+C:\Users\z2020\source\repos\AdventureWroks Sales Test\AdventureWroks Sales Test\obj\Development\Model.deploymenttargets
