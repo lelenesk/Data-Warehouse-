@@ -1,6 +1,6 @@
 # Setup video
 
-- https://youtu.be/HHgFEn1qBLY
+- https://youtu.be/gJPRz9T_HrQ
 
 
 
